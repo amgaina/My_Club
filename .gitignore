@@ -163,3 +163,4 @@ cython_debug/
 venv/
 pyvenv.cfg/
 manage.py/
+db.sqlite3/
