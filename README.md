@@ -1,1 +1,1 @@
-# Django-basics
+# My Club Website
